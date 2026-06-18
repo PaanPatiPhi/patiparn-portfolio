@@ -25,6 +25,7 @@ export const nav = {
   skills:     { th: 'ทักษะ',          en: 'Skills'     },
   projects:   { th: 'ผลงาน',          en: 'Projects'   },
   experience: { th: 'ประสบการณ์',     en: 'Experience' },
+  education:  { th: 'การศึกษา',       en: 'Education'  },
   contact:    { th: 'ติดต่อ',         en: 'Contact'    },
 }
 
